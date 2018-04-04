@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LevelManager">
+			<method name="QuitRequest"/>
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+		</type>
+		<type fullname="NumberWizard">
+			<method name="GuessHigher"/>
+			<method name="GuessLower"/>
+		</type>
+	</assembly>
+</linker>

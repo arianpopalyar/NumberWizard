@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NumberWizard UI build.data.unityweb",
+"asmCodeUrl": "NumberWizard UI build.asm.code.unityweb",
+"asmMemoryUrl": "NumberWizard UI build.asm.memory.unityweb",
+"asmFrameworkUrl": "NumberWizard UI build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
